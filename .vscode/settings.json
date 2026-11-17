@@ -1,0 +1,12 @@
+{
+  "java.project.sourcePaths": [
+    "src/main/java",
+    "src/test/java"
+  ],
+  "java.project.outputPath": "build/vscode",
+  "java.project.referencedLibraries": [
+    "lib/h2-2.5.252.jar"
+  ],
+  "java.import.maven.enabled": false,
+  "files.encoding": "utf8"
+}

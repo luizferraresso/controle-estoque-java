@@ -1,0 +1,12 @@
+build/
+target/
+dados/
+.tools/
+*.log
+*.csv
+*.png
+!docs/interface.png
+
+# Pacote de entrega local e arquivo vazio anterior ao projeto.
+/ControleEstoque-entrega.zip
+/Hotel.java

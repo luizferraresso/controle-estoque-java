@@ -1,0 +1,17 @@
+DEPENDENCIA: H2 Database Engine 2.5.252
+
+Este projeto distribui o binario original, sem modificacoes, do H2 Database Engine.
+Projeto e codigo-fonte: https://github.com/h2database/h2database/tree/version-2.5.252
+Origem do JAR: https://repo.maven.apache.org/maven2/com/h2database/h2/2.5.252/h2-2.5.252.jar
+
+O H2 e disponibilizado sob licenca dupla: Mozilla Public License 2.0 (MPL 2.0)
+ou Eclipse Public License 1.0 (EPL 1.0). As licencas, avisos de direitos autorais
+e termos completos estao em https://h2database.github.io/html/license.html.
+
+O componente e fornecido no estado em que se encontra, sem garantias expressas
+ou implicitas de adequacao a um fim especifico ou comercializacao. Os autores e
+colaboradores do H2 nao assumem responsabilidade por danos decorrentes de seu
+uso, conforme os termos e limitacoes da licenca aplicavel.
+
+SHA-256 do arquivo h2-2.5.252.jar incluido:
+90b11dc413da82070ef15fc943282c1408e6ffd34fa68998335fea8603b5ff20
